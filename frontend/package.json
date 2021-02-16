@@ -1,0 +1,12 @@
+{
+  "name": "linkur-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Roberto DS",
+  "license": "Apache-2.0"
+}
